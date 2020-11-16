@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Події
+//spy++
+//методи розширення
+using System;
 using System.Collections.Generic;
 
 namespace _13112020
